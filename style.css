@@ -1,0 +1,604 @@
+body{
+    background-color:#2B2B2B;
+}
+*{box-sizing: border-box;
+    margin: 0;
+    padding: 0;}
+
+    
+@media only screen and (max-width:425px) {
+   .box{
+    margin-left: 0 !important;
+    padding: 0 !important;
+   }
+   
+
+   .button6{
+    width: 315px !important;
+    height: 60px !important;
+   }
+   .img90{
+    display: block !important;
+    width: 315px !important;
+    height: 315px !important;
+    margin-top: -20px !important;
+    margin-bottom: 15px !important;
+   }
+   
+   .br{
+    display: block !important;
+
+   }
+   .satauri7{
+    font-size: 28px !important;
+   }
+   .satauri8{
+    font-size: 16px !important;
+   }
+   .satauri{
+    font-size: 28px !important;
+   }
+   .satauri6{
+    font-size: 16px !important;
+    
+   }
+   .container05{
+    margin-left: -25px !important;
+   }
+   .container55{
+    margin-left: -20px !important;
+   }
+   .cardebi{
+    width: 315px !important;
+    height: 100px !important;
+    margin-bottom: 30px !important;
+    display: flex;
+    
+   }
+   .cardebii{
+
+    margin-top: -15px !important;
+   }
+   .number1{
+    margin-top: -7px !important;
+   }
+   .avatar1{
+    width: 60px !important;
+    height: 60px !important;
+    margin-top: 15px !important;
+    margin-left: 25px !important;
+   }
+   .container32{
+    margin-left: 10px !important;
+   }
+   .texti{
+    font-size: 22px !important;
+    padding-left: 40px !important;
+    padding-top: 15px !important;
+   }
+   .paragraphi{
+   padding-left: 125px !important;
+   margin-top: 0 !important;
+   margin-top: -60px !important;
+   }
+
+   .container9{
+    width: 315px !important;
+    height: 505px !important;
+   }
+   .img4{
+    width: 315px !important; 
+   }
+   .row1{
+    margin-left: 0 !important;
+   }
+   .card4{
+    width: 100% !important;
+    height: 209px !important;
+    border-radius: 20px !important;
+   }
+   .z-1{
+    width: 100% !important;
+    height: 142px !important;
+   }
+    .z-2{
+        width: 80px !important;
+        margin-left: 0 !important;
+        margin-left: 30px !important;
+    }
+    .head1{
+      font-size: 16px !important;
+      padding-top: 20px !important;
+      
+    }
+
+   .satauri1{
+    margin-top: 5px !important;
+   }
+   .satauri09{
+    font-size: 28px !important;
+    margin-left: 0px !important;
+    padding-left: 20px !important;
+   }
+   .cardi{
+    width: 147px !important;
+    height: 209px !important; 
+    margin-bottom: 10px !important;
+   }
+   .satauri098{
+    font-size: 28px !important;
+   }
+   .paragraphi02{
+    font-size: 16px !important;
+   }
+   .h11{
+    margin-top: -30px !important;
+   }
+   .card02{
+    width: 315px !important;
+    height: 402px !important;
+    margin-top: 10px !important;
+margin-left: 10px !important;
+   }
+   .img6{
+    width: 315px !important;
+   }
+   .container02{
+    margin-bottom: 10px !important;
+   }
+   .pasi{
+    margin-top: -20px !important;
+   }
+   .bttn{
+    width: 315px !important;
+    height: 60px !important;
+    border-radius: 20px !important;
+    background-color: #2B2B2B !important;
+    border-color: #A259FF !important;
+    margin-left: 20px !important;
+    margin-top:40px !important;
+   }
+   .huge{
+    background-image: url(mmashroom1.png) !important;
+   background-size: 100% 100% !important;
+   background-repeat: no-repeat !important;
+   height: 590px !important;
+   }
+   .container098{
+     margin-left: 30px !important;
+    margin-top: 90px !important;
+   }
+   .title2{
+    font-size: 38px !important;
+    margin-left: 30px !important;
+   }
+   .container088{
+    width: 315px !important;
+    margin-top: 30px !important;
+   }
+   .title3{
+    font-size: 22px !important;
+    margin-left: 20px !important;
+   }
+   .texti3{
+    font-size: 16px !important;
+    margin-left: 20px !important;
+   }
+   .card03{
+    width: 315px !important;
+    height: 157px !important;
+    border-radius: 20px !important;
+    margin-left: 10px !important;
+   }
+   .img7{
+    height: 100px !important;
+    width: 100px !important;
+    margin-top: 10px !important;
+    
+   }
+   .title4{
+    font-size: 16px !important;
+    height: 22px !important;
+    text-align: left !important;
+    
+   }
+   
+   .texti4{
+    font-size: 12px !important;
+    height: 68px !important;
+    width: 155px !important;
+    text-align: left !important;
+    
+    
+   }
+   .card03{
+    margin-bottom: 10px !important;
+   }
+
+    .card05{
+        display: flex !important;
+        gap: 30px !important;
+    }
+
+    .container012{
+        background: inherit !important;
+        height: fit-content !important;
+       
+    }
+    .img8{
+        width: 315px !important;
+        height: 255px !important;
+        border-radius: 20px !important;
+        margin-left: -100px !important;
+        margin-top: -30px !important;
+    }
+    .paragrapi{
+        font-size: 28px !important;
+        
+        
+    }
+    .texti1{
+        font-size: 16px !important;
+        width: 315px !important;
+    }
+    .box1{
+       margin-left: -100px !important;
+        margin-top: 20px !important;
+    }
+    .button2{
+        padding-right: 0 !important;
+        width: 315px !important;
+        height: 46px !important;
+        margin-top: -40px !important;
+        display: block;
+    }
+    .button4{
+        margin-left: 0 !important;
+        width: 315px !important;
+        height: 46px !important;
+        
+        margin-top: 15px !important;
+    }
+    .container013{
+        margin-top: 100px !important;
+        width: 375px !important;
+        height: 776px !important;
+    }
+    .box3{
+        margin-top: 20px !important;
+        margin-left: -90px !important;
+    }
+    .paragrapi1{
+        font-size: 16px !important;
+        margin-left: -90px !important;
+        margin-top: -20px !important;
+    }
+    .box4{
+        margin-left: -90px !important;
+        
+    }
+    .paragrapi2{
+     margin-left: -90px !important;
+     margin-top: 30px !important;
+    }
+    .paragrapi3{
+        margin-left: -90px !important;
+        margin-top: -30px !important;
+    }
+    .paragraphi4{
+        margin-left: -90px !important;
+    }
+    .paragrapi5{
+        margin-left: -90px !important;
+    }
+    .paragrapi6{
+        font-size: 22px !important;
+        font-family: mono !important;
+        margin-left: -180px !important;
+        margin-top: 10px !important;
+    }
+    .paragrapi7{
+        font-size: 16px !important;
+        font-family: worksans !important;
+        margin-left: -190px !important;
+    }
+    .button8{
+        width: 315px !important;
+        height: 46px !important;
+        margin-left: -190px !important;
+        padding-right: 20px !important;
+        
+    }
+    .button9{
+        width: 315px !important;
+        height: 46px !important;
+       margin-top: 70px !important;
+       margin-right: 80px !important;
+    }
+    .hr{
+        margin-top: 90px !important;
+    }
+    .paragrapi8{
+      margin-left: -90px !important;
+    }
+   }
+   
+
+        
+    
+@font-face {
+    font-family: worksans;
+    src: url(worksans.ttf);
+}
+
+@font-face {
+    font-family: mono;
+    src: url(mono.ttf);
+}
+.br{
+    display: none;
+}
+.img90{
+    display: none;
+}
+
+    
+.navigacia{
+    color: white;
+}
+.button{
+    width: 120px;
+    height: 50px; 
+    background-color: #A259FF;
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+.mtavari{
+    font-family: worksans;
+    
+}
+.box{
+    padding: 55px;
+}
+.satauri{
+    color: white;
+   
+}
+.satauri6{
+    font-family: worksans;
+    font-size: 22px;
+}
+.satauri1{
+    color: white;
+    font-family: worksans;
+    size: 22px;
+   
+}
+.paragraph{
+color: white;
+font-family: worksans;
+size: 16px;
+
+}
+.container55{
+    margin-top: 30px;
+}
+
+.satauri2{
+    color: white;
+    font-family: worksans;
+    size: 22px;
+   
+}
+
+
+
+.satauri3{
+    color: white;
+    font-family: worksans;
+    size: 22px;
+   
+}
+
+
+ .texti{
+   color: white;
+font-family: workSans;
+font-size: 22px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: center;
+padding-top: 5px;
+ }
+ .container32{
+    border-radius: 50px;
+     background-color:   #2B2B2B;
+      width: 20px; 
+      text-align: center;
+      color: white;
+      position: absolute;
+      margin-left: 5px;
+      margin-top: 10px;
+ }
+ .pasi{
+    
+font-family: mono;
+font-size: 12px;
+font-weight: 400;
+line-height: 13px;
+letter-spacing: 0em;
+text-align: left;
+
+ }
+ .pasi1{
+    
+font-family: mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+ }
+ .button3{
+    height: 60px;
+    width: 247px;
+    background-color: #2B2B2B;
+    border-color: #A259FF;
+    border-radius: 20px;
+    margin-left: 220px;
+    font-family: worksans;
+ }
+
+
+ 
+ .paragrapi{
+color: white;
+font-family: worksans;
+font-size: 38px;
+font-weight: 600;
+line-height: 46px;
+
+ }
+
+ .texti1{
+    color: white;
+font-family: worksans;
+font-size: 22px;
+font-weight: 400;
+line-height: 35px;
+ }
+
+ .button2{
+    width: 425px;
+    height: 60px;
+    padding-right: 240px;
+    border-radius: 20px;
+    border: none;
+    font-family: worksans;
+    
+ }
+  
+ .button4{
+    width: 211px;
+    height: 60px;
+    background-color: #A259FF;
+    border-radius: 20px;
+    border: none;
+    position: absolute;
+    margin-left: -210px;
+    color: white;
+    font-family: worksans;
+   }
+    
+   .bttn{
+    display: none;
+   }
+   
+   
+   .huge{
+   background-image: url(hugemashroom.png);
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   height: 640px;
+   
+   }
+
+   .container098{
+    width: 151px;
+    height: 44px;
+    border-radius: 20px;
+    background-color: #3B3B3B;
+    text-align: center;
+    padding-top: 7px;
+    margin-left: 105px;
+    margin-top: 320px;
+   }
+   .avatari{
+    color: white;
+    font-family: worksans;
+    size: 16px;
+    padding-left: 5px;
+   }
+    
+   .title2{
+    font-family: worksans;
+    font-size: 51px;
+    color:  #FFFFFF;
+    margin-top: 40px;
+    margin-left: 105px;
+   }
+   .button5{
+    width: 198px;
+    height: 60px;
+   color: white;
+   border-radius: 20px;
+   border: none;
+   font-family: worksans;
+   color: #2B2B2B;
+   size: 16px;
+   margin-left: 105px;
+   margin-top: 40px;
+   }
+   .container088{
+    width: 310px;
+    height: 150px;
+    border-radius: 20px;
+    background-color: #3B3B3B;
+    margin-top: 400px;
+    margin-left: 300px;
+background-color: rgba(59, 59, 59, 0.5);;
+   }
+   .timer{
+    text-align: center;
+    font-family: mono;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 46px;
+    color:  #FFFFFF;
+    }
+
+   .hours{
+    padding-left: 10px;
+    
+   }
+   .ends{
+    padding-left: 12px;
+   }
+   .container012{
+    width: 1205px;
+    height: 430px;
+    background-color:  #3B3B3B;
+    border-radius: 20px;
+    margin-left: 120px;
+  }
+
+  .container013{
+    width: 1470;
+    height: 334px;
+    background-color: #3B3B3B;
+   }
+   .button8
+   {
+    width: 425px;
+    height: 60px;
+    padding-right: 240px;
+    border-radius: 20px;
+    border: none;
+    font-family: worksans;
+   }
+   .button9{
+    width: 211px;
+    height: 60px;
+    background-color: #A259FF;
+    border-radius: 20px;
+    border: none;
+    position: absolute;
+    margin-left: -210px;
+    color: white;
+    font-family: worksans;
+   }
+
+   
